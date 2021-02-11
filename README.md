@@ -13,6 +13,8 @@ I'm Wylie. I love building web apps with React and JS :raised_hands:
 5. ❗️ Closed issue [#27](https://github.com/last-cursor-position/last-cursor-position/issues/27) in [last-cursor-position/last-cursor-position](https://github.com/last-cursor-position/last-cursor-position)
 <!--END_SECTION:activity-->
 
+### My stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wylie39&count_private=true&show_icons=true&theme=vue-dark)
 
 
