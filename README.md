@@ -8,9 +8,9 @@ I'm Wylie. I love building web apps with React and JS :raised_hands:
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#44](https://github.com/last-cursor-position/last-cursor-position/pull/44) in [last-cursor-position/last-cursor-position](https://github.com/last-cursor-position/last-cursor-position)
 2. ❗️ Opened issue [#804](https://github.com/github/choosealicense.com/issues/804) in [github/choosealicense.com](https://github.com/github/choosealicense.com)
-3. 💪 Opened PR [#9](https://github.com/codingMASTER398/Kahootflood.weebly.com/pull/9) in [codingMASTER398/Kahootflood.weebly.com](https://github.com/codingMASTER398/Kahootflood.weebly.com)
-4. 💪 Opened PR [#44](https://github.com/last-cursor-position/last-cursor-position/pull/44) in [last-cursor-position/last-cursor-position](https://github.com/last-cursor-position/last-cursor-position)
-5. ❗️ Closed issue [#1](https://github.com/wylie39/wylie39/issues/1) in [wylie39/wylie39](https://github.com/wylie39/wylie39)
+3. 💪 Opened PR [#44](https://github.com/last-cursor-position/last-cursor-position/pull/44) in [last-cursor-position/last-cursor-position](https://github.com/last-cursor-position/last-cursor-position)
+4. ❗️ Closed issue [#1](https://github.com/wylie39/wylie39/issues/1) in [wylie39/wylie39](https://github.com/wylie39/wylie39)
+5. 🗣 Commented on [#1](https://github.com/wylie39/wylie39/issues/1) in [wylie39/wylie39](https://github.com/wylie39/wylie39)
 <!--END_SECTION:activity-->
 
 ### My stats
