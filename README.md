@@ -8,9 +8,9 @@ I'm Wylie. I love building web apps with React and JS :raised_hands:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#232](https://github.com/themoonisacheese/2bored2wait/issues/232) in [themoonisacheese/2bored2wait](https://github.com/themoonisacheese/2bored2wait)
 2. 🗣 Commented on [#232](https://github.com/themoonisacheese/2bored2wait/issues/232) in [themoonisacheese/2bored2wait](https://github.com/themoonisacheese/2bored2wait)
-3. 🗣 Commented on [#231](https://github.com/themoonisacheese/2bored2wait/issues/231) in [themoonisacheese/2bored2wait](https://github.com/themoonisacheese/2bored2wait)
-4. 🗣 Commented on [#1335](https://github.com/greatsuspender/thegreatsuspender/issues/1335) in [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender)
-5. 🗣 Commented on [#11112](https://github.com/qmk/qmk_firmware/issues/11112) in [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware)
+3. 🗣 Commented on [#232](https://github.com/themoonisacheese/2bored2wait/issues/232) in [themoonisacheese/2bored2wait](https://github.com/themoonisacheese/2bored2wait)
+4. 🗣 Commented on [#231](https://github.com/themoonisacheese/2bored2wait/issues/231) in [themoonisacheese/2bored2wait](https://github.com/themoonisacheese/2bored2wait)
+5. 🗣 Commented on [#1335](https://github.com/greatsuspender/thegreatsuspender/issues/1335) in [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender)
 <!--END_SECTION:activity-->
 
 ### My stats
