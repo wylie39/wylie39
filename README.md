@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Wylie. I love building web apps with React and JS :raised_hands: 
+I'm Wylie, I’m A developer living in Belfast, Maine. My favorite languages are JS and Rust :raised_hands: 
 
 
 ### :zap: Recent Activity
