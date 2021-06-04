@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Wylie, I’m A developer living in Belfast, Maine. My favorite languages are JS and Rust :raised_hands: 
+I'm Wylie, I’m a developer living in Belfast, Maine. My favorite languages are JS and Rust :raised_hands: 
 
 
 ### :zap: Recent Activity
