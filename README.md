@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Wylie, I’m a developer living in Portland, Maine. My favorite language is JS.
+I'm Wylie, I’m a developer living in Portland, Maine. My favorite language is TS.
 
 
 ### :zap: Recent Activity
