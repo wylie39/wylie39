@@ -13,8 +13,3 @@ I'm Wylie, I’m a Full Stack Developer living in Portland, Maine. My favorite l
 5. 🗣 Commented on [#1229](https://github.com/boa-dev/boa/issues/1229) in [boa-dev/boa](https://github.com/boa-dev/boa)
 <!--END_SECTION:activity-->
 
-### My stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wylie39&count_private=true&show_icons=true&theme=vue-dark)
-
-
