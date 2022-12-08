@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Wylie, I’m a Full Stack Developer living in Portland, Maine. My favorite language is TS.
+I'm Wylie, I’m a Full Stack Developer living in Portland, Maine.
 
 
 ### :zap: Recent Activity
