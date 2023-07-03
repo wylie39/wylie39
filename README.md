@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Wylie, I’m a Full Stack Developer living in Portland, Maine.
+I'm Wylie, I’m a Full Stack Developer living in Philadelphia
 
 
 ### :zap: Recent Activity
