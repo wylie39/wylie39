@@ -6,7 +6,7 @@ I'm Wylie, I’m a Full Stack Developer living in Philadelphia
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#94](https://github.com/discljord/discljord/pull/94) in [discljord/discljord](https://github.com/discljord/discljord)
+1. 💪 Opened PR [#20](https://github.com/emonadeo/AutoRun/pull/20) in [emonadeo/AutoRun](https://github.com/emonadeo/AutoRun)
 2. 🗣 Commented on [#1348](https://github.com/greatsuspender/thegreatsuspender/issues/1348) in [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender)
 3. ❗️ Closed issue [#42](https://github.com/mac-s-g/github-help-wanted/issues/42) in [mac-s-g/github-help-wanted](https://github.com/mac-s-g/github-help-wanted)
 4. ❗️ Opened issue [#8323](https://github.com/aws-amplify/amplify-js/issues/8323) in [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js)
