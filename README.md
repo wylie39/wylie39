@@ -6,7 +6,7 @@ I'm Wylie, I’m a Full Stack Developer living in Philadelphia
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#18](https://github.com/sethcwhiting/yearbook/pull/18) in [sethcwhiting/yearbook](https://github.com/sethcwhiting/yearbook)
+1. 💪 Opened PR [#4166](https://github.com/JuliaLang/Pkg.jl/pull/4166) in [JuliaLang/Pkg.jl](https://github.com/JuliaLang/Pkg.jl)
 2. 💪 Opened PR [#18](https://github.com/sethcwhiting/yearbook/pull/18) in [sethcwhiting/yearbook](https://github.com/sethcwhiting/yearbook)
 3. 💪 Opened PR [#20](https://github.com/emonadeo/AutoRun/pull/20) in [emonadeo/AutoRun](https://github.com/emonadeo/AutoRun)
 4. ❗️ Opened issue [#8323](https://github.com/aws-amplify/amplify-js/issues/8323) in [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js)
