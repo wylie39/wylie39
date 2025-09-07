@@ -6,7 +6,7 @@ I'm Wylie, I’m a Full Stack Developer living in Philadelphia
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#278](https://github.com/natesales/pathvector/issues/278#issuecomment-2972098822) in [natesales/pathvector](https://github.com/natesales/pathvector)
+1. 🎉 Merged PR [#4](https://github.com/wylie39/cert-manager-webhook-dynadot/pull/4) in [wylie39/cert-manager-webhook-dynadot](https://github.com/wylie39/cert-manager-webhook-dynadot)
 2. ❗ Opened issue [#14356](https://github.com/aws-amplify/amplify-js/issues/14356) in [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js)
 3. 🗣 Commented on [#125620](https://github.com/JuliaRegistries/General/pull/125620#issuecomment-2676505300) in [JuliaRegistries/General](https://github.com/JuliaRegistries/General)
 4. 💪 Opened PR [#4166](https://github.com/JuliaLang/Pkg.jl/pull/4166) in [JuliaLang/Pkg.jl](https://github.com/JuliaLang/Pkg.jl)
